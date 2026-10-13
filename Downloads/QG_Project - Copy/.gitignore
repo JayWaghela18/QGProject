@@ -105,3 +105,7 @@ validation/
 **/models/
 *.keras
 *.task
+
+**/models/
+*.keras
+*.task
