@@ -102,3 +102,6 @@ outputs/
 # ── Validation archive (large) ───────────────────────────────
 validation.zip
 validation/
+**/models/
+*.keras
+*.task
