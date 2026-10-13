@@ -1,0 +1,254 @@
+[
+  {
+    "subject": "subject1",
+    "dataset": "DATASET_2",
+    "video_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject1\\vid.avi",
+    "ground_truth_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject1\\ground_truth.txt"
+  },
+  {
+    "subject": "subject10",
+    "dataset": "DATASET_2",
+    "video_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject10\\vid.avi",
+    "ground_truth_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject10\\ground_truth.txt"
+  },
+  {
+    "subject": "subject11",
+    "dataset": "DATASET_2",
+    "video_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject11\\vid.avi",
+    "ground_truth_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject11\\ground_truth.txt"
+  },
+  {
+    "subject": "subject12",
+    "dataset": "DATASET_2",
+    "video_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject12\\vid.avi",
+    "ground_truth_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject12\\ground_truth.txt"
+  },
+  {
+    "subject": "subject13",
+    "dataset": "DATASET_2",
+    "video_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject13\\vid.avi",
+    "ground_truth_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject13\\ground_truth.txt"
+  },
+  {
+    "subject": "subject14",
+    "dataset": "DATASET_2",
+    "video_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject14\\vid.avi",
+    "ground_truth_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject14\\ground_truth.txt"
+  },
+  {
+    "subject": "subject15",
+    "dataset": "DATASET_2",
+    "video_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject15\\vid.avi",
+    "ground_truth_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject15\\ground_truth.txt"
+  },
+  {
+    "subject": "subject16",
+    "dataset": "DATASET_2",
+    "video_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject16\\vid.avi",
+    "ground_truth_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject16\\ground_truth.txt"
+  },
+  {
+    "subject": "subject17",
+    "dataset": "DATASET_2",
+    "video_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject17\\vid.avi",
+    "ground_truth_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject17\\ground_truth.txt"
+  },
+  {
+    "subject": "subject18",
+    "dataset": "DATASET_2",
+    "video_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject18\\vid.avi",
+    "ground_truth_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject18\\ground_truth.txt"
+  },
+  {
+    "subject": "subject20",
+    "dataset": "DATASET_2",
+    "video_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject20\\vid.avi",
+    "ground_truth_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject20\\ground_truth.txt"
+  },
+  {
+    "subject": "subject22",
+    "dataset": "DATASET_2",
+    "video_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject22\\vid.avi",
+    "ground_truth_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject22\\ground_truth.txt"
+  },
+  {
+    "subject": "subject23",
+    "dataset": "DATASET_2",
+    "video_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject23\\vid.avi",
+    "ground_truth_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject23\\ground_truth.txt"
+  },
+  {
+    "subject": "subject24",
+    "dataset": "DATASET_2",
+    "video_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject24\\vid.avi",
+    "ground_truth_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject24\\ground_truth.txt"
+  },
+  {
+    "subject": "subject25",
+    "dataset": "DATASET_2",
+    "video_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject25\\vid.avi",
+    "ground_truth_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject25\\ground_truth.txt"
+  },
+  {
+    "subject": "subject26",
+    "dataset": "DATASET_2",
+    "video_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject26\\vid.avi",
+    "ground_truth_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject26\\ground_truth.txt"
+  },
+  {
+    "subject": "subject27",
+    "dataset": "DATASET_2",
+    "video_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject27\\vid.avi",
+    "ground_truth_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject27\\ground_truth.txt"
+  },
+  {
+    "subject": "subject3",
+    "dataset": "DATASET_2",
+    "video_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject3\\vid.avi",
+    "ground_truth_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject3\\ground_truth.txt"
+  },
+  {
+    "subject": "subject30",
+    "dataset": "DATASET_2",
+    "video_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject30\\vid.avi",
+    "ground_truth_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject30\\ground_truth.txt"
+  },
+  {
+    "subject": "subject31",
+    "dataset": "DATASET_2",
+    "video_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject31\\vid.avi",
+    "ground_truth_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject31\\ground_truth.txt"
+  },
+  {
+    "subject": "subject32",
+    "dataset": "DATASET_2",
+    "video_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject32\\vid.avi",
+    "ground_truth_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject32\\ground_truth.txt"
+  },
+  {
+    "subject": "subject33",
+    "dataset": "DATASET_2",
+    "video_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject33\\vid.avi",
+    "ground_truth_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject33\\ground_truth.txt"
+  },
+  {
+    "subject": "subject34",
+    "dataset": "DATASET_2",
+    "video_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject34\\vid.avi",
+    "ground_truth_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject34\\ground_truth.txt"
+  },
+  {
+    "subject": "subject35",
+    "dataset": "DATASET_2",
+    "video_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject35\\vid.avi",
+    "ground_truth_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject35\\ground_truth.txt"
+  },
+  {
+    "subject": "subject36",
+    "dataset": "DATASET_2",
+    "video_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject36\\vid.avi",
+    "ground_truth_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject36\\ground_truth.txt"
+  },
+  {
+    "subject": "subject37",
+    "dataset": "DATASET_2",
+    "video_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject37\\vid.avi",
+    "ground_truth_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject37\\ground_truth.txt"
+  },
+  {
+    "subject": "subject38",
+    "dataset": "DATASET_2",
+    "video_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject38\\vid.avi",
+    "ground_truth_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject38\\ground_truth.txt"
+  },
+  {
+    "subject": "subject39",
+    "dataset": "DATASET_2",
+    "video_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject39\\vid.avi",
+    "ground_truth_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject39\\ground_truth.txt"
+  },
+  {
+    "subject": "subject4",
+    "dataset": "DATASET_2",
+    "video_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject4\\vid.avi",
+    "ground_truth_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject4\\ground_truth.txt"
+  },
+  {
+    "subject": "subject40",
+    "dataset": "DATASET_2",
+    "video_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject40\\vid.avi",
+    "ground_truth_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject40\\ground_truth.txt"
+  },
+  {
+    "subject": "subject41",
+    "dataset": "DATASET_2",
+    "video_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject41\\vid.avi",
+    "ground_truth_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject41\\ground_truth.txt"
+  },
+  {
+    "subject": "subject42",
+    "dataset": "DATASET_2",
+    "video_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject42\\vid.avi",
+    "ground_truth_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject42\\ground_truth.txt"
+  },
+  {
+    "subject": "subject43",
+    "dataset": "DATASET_2",
+    "video_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject43\\vid.avi",
+    "ground_truth_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject43\\ground_truth.txt"
+  },
+  {
+    "subject": "subject44",
+    "dataset": "DATASET_2",
+    "video_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject44\\vid.avi",
+    "ground_truth_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject44\\ground_truth.txt"
+  },
+  {
+    "subject": "subject45",
+    "dataset": "DATASET_2",
+    "video_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject45\\vid.avi",
+    "ground_truth_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject45\\ground_truth.txt"
+  },
+  {
+    "subject": "subject46",
+    "dataset": "DATASET_2",
+    "video_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject46\\vid.avi",
+    "ground_truth_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject46\\ground_truth.txt"
+  },
+  {
+    "subject": "subject47",
+    "dataset": "DATASET_2",
+    "video_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject47\\vid.avi",
+    "ground_truth_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject47\\ground_truth.txt"
+  },
+  {
+    "subject": "subject48",
+    "dataset": "DATASET_2",
+    "video_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject48\\vid.avi",
+    "ground_truth_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject48\\ground_truth.txt"
+  },
+  {
+    "subject": "subject49",
+    "dataset": "DATASET_2",
+    "video_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject49\\vid.avi",
+    "ground_truth_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject49\\ground_truth.txt"
+  },
+  {
+    "subject": "subject5",
+    "dataset": "DATASET_2",
+    "video_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject5\\vid.avi",
+    "ground_truth_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject5\\ground_truth.txt"
+  },
+  {
+    "subject": "subject8",
+    "dataset": "DATASET_2",
+    "video_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject8\\vid.avi",
+    "ground_truth_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject8\\ground_truth.txt"
+  },
+  {
+    "subject": "subject9",
+    "dataset": "DATASET_2",
+    "video_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject9\\vid.avi",
+    "ground_truth_path": "G:\\.shortcut-targets-by-id\\1o0XU4gTIo46YfwaWjIgbtCncc-oF44Xk\\UBFC_DATASET\\DATASET_2\\subject9\\ground_truth.txt"
+  }
+]

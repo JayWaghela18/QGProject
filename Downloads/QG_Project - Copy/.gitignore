@@ -1,0 +1,104 @@
+# ─────────────────────────────────────────────────────────────
+# QG Project — .gitignore
+# ─────────────────────────────────────────────────────────────
+
+# ── Python ───────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+
+# ── Virtual environments ──────────────────────────────────────
+venv/
+venv*/
+.venv/
+.venv*/
+.venv_mediapipe/
+env/
+env*/
+ENV/
+.env/
+
+# ── Distribution / packaging ──────────────────────────────────
+build/
+dist/
+*.egg-info/
+*.egg
+wheels/
+.eggs/
+
+# ── Testing & Coverage ────────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+*.cover
+coverage.xml
+nosetests.xml
+
+# ── Jupyter Notebooks ─────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── Large binary / data files ─────────────────────────────────
+*.npy
+*.npz
+*.avi
+*.mp4
+*.mov
+*.zip
+*.tar.gz
+*.h5
+*.hdf5
+*.parquet
+*.pkl
+*.pickle
+*.bin
+
+# ── Keras / TensorFlow / PyTorch model files ─────────────────
+models/
+*.keras
+*.pb
+*.onnx
+*.pt
+*.pth
+*.weights
+
+# ── MediaPipe assets ──────────────────────────────────────────
+models/face_landmarker.task
+*.task
+
+# ── IDE / Editor ──────────────────────────────────────────────
+.vscode/
+.idea/
+*.suo
+*.user
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ── OS ────────────────────────────────────────────────────────
+desktop.ini
+ehthumbs.db
+
+# ── Backup files created by this project's workflow ──────────
+*.backup
+*.stage-*.backup
+*.pre_*.backup
+
+# ── Logs & temp ───────────────────────────────────────────────
+*.log
+*.tmp
+*.temp
+tmp/
+temp/
+
+# ── Outputs (generated at runtime) ───────────────────────────
+outputs/
+
+# ── Validation archive (large) ───────────────────────────────
+validation.zip
+validation/

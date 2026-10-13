@@ -1,0 +1,28 @@
+# ─────────────────────────────────────────────────────────────
+# QG Project — Core Requirements
+# Python 3.9 – 3.11 recommended (TensorFlow 2.15 compatibility)
+# ─────────────────────────────────────────────────────────────
+
+# Computer Vision
+opencv-contrib-python==4.10.0.84
+
+# Numerical computing & signal processing
+numpy==1.26.4
+scipy>=1.11.0
+
+# Plotting
+matplotlib>=3.8.0
+
+# Deep learning (CNN model inference)
+tensorflow==2.15.1
+
+# ─────────────────────────────────────────────────────────────
+# Optional: MediaPipe (use requirements-mediapipe.txt for the
+# isolated .venv_mediapipe environment instead)
+# mediapipe==0.10.14
+# jax==0.4.28
+# jaxlib==0.4.28
+# ─────────────────────────────────────────────────────────────
+
+# Testing
+pytest>=7.4.0
